@@ -41,3 +41,6 @@ If the user try to access the `userDetails` page, it automatically redirects the
 - src/configs/dbConfig.js - sets up the connection to your local PostreSql database table
 - src/configs/passportConfig.js - includes a function `initPassort` that helps authenticating users when they log in
 - src/views/* - html files for the different pages: `index`, `register`, `login`, `userDetails`. .ejs files are used to enable embedded javascript in html.
+
+### Missing features
+- email verification
